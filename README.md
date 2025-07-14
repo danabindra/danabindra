@@ -58,12 +58,13 @@ Python, Bash, Shell, PowerShell, limited Go
 
 ## Certifications
 
-Azure Solutions Architect Expert  
-Azure Network Engineer Associate  
-AWS Cloud Practitioner  
-CompTIA Security+
-JNCIA
-Microsoft Fabric (internal)  
+- Azure Solutions Architect Expert  
+- Azure Network Engineer Associate  
+- AWS Cloud Practitioner  
+- CompTIA Security+
+- JNCIA
+- Microsoft Fabric
+
 
 ---
 
