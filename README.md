@@ -77,7 +77,10 @@ https://medium.com/@bookfan2200
 
 ## Contact
 
-Non-profit in progress: https://hustlestack.ai  
-LinkedIn: https://linkedin.com/in/danbindra  
-Medium: https://medium.com/@bookfan2200  
+
+Website: https://binaryhustle.io
+LinkedIn: https://linkedin.com/in/sbindra 
+Medium: https://medium.com/@bookfan2200
+
+Non-profit in progress: https://hustlestack.ai
  
