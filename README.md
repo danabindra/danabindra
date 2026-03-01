@@ -1,6 +1,6 @@
 # Dana Bindra
 
-DevOps and Cloud Infrastructure Engineer with 15+ years of experience architecting secure, scalable systems across enterprise, AI, and high-performance environments. Experience includes multi-tenant GPU clusters, secure CI/CD automation, AI observability, and large-scale network design.
+DevOps/Cloud/GPI Infrastructure Engineering Mgr with 15+ years of experience architecting secure, scalable systems across enterprise, AI, and high-performance environments. Experience includes multi-tenant GPU clusters, secure CI/CD automation, AI observability, and large-scale network design.
 
 ---
 
