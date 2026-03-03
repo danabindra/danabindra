@@ -92,7 +92,7 @@ Technical blogs and case studies on Medium:
 
 ## Connect
 
-🌐 [binaryhustle.io](https://binaryhustle.io)
+
 💼 [linkedin.com/in/danabindra](https://linkedin.com/in/danabindra)
 ✍️ [medium.com/@bookfan2200](https://medium.com/@bookfan2200)
 
