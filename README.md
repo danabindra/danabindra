@@ -8,7 +8,7 @@ Leading globally distributed engineering teams (US, India, Philippines) building
 
 ## Working On
 
-- **Model Fine-tuning to Dianostics** — Building end-to-end data pipelines on Microsoft Fabric (OneLake, Data Factory, Data Warehouse, Data Science) with Snowflake integrations and FastAPI-based microservices for real-time data access
+- **Model Fine-tuning to Dianostics** — Building end-to-end data platform to read log data and other resources before making diagnosing issues
 - **GPU/HPC Infrastructure** — Multi-tenant GPU cluster design with RDMA/RoCEv2 optimization, Kubernetes GPU scheduling, and observability via Prometheus + custom ROCm exporters
 - **Model Fine-tuning to Dianostics** — Building end-to-end data pipelines on Microsoft Fabric (OneLake, Data Factory, Data Warehouse, Data Science) with Snowflake integrations and FastAPI-based microservices for real-time data access
 - **Azure/GCP/OCI Cloud Architecture at Scale** — Multi-region Azure hub-spoke topologies with ExpressRoute, CheckPoint NVAs, BGP peering, and Terraform IaC for Fortune 100 clients
