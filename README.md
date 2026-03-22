@@ -1,6 +1,6 @@
 # Dana Bindra
 
-**Cloud & AI Infrastructure Engineering Leader** | Over 10 years experience architecting secure, scalable systems across enterprise, federal, and high-performance environments.
+**Cloud, AI Infrastructure Engineering Leader** | Over 10 years experience architecting secure, scalable systems across enterprise, federal, and high-performance environments.
 
 Leading globally distributed engineering teams (US, India, Philippines) building everything from multi-region Azure hub-spoke architectures to GPU/HPC clusters and GenAI-driven data pipelines. My career spans carrier-grade networking, enterprise cloud, DoD-cleared environments, and AI infrastructure always at the intersection of complex systems and automation.
 
