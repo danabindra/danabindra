@@ -2,15 +2,16 @@
 
 **Cloud & AI Infrastructure Engineering Leader** | Over 10 years experience architecting secure, scalable systems across enterprise, federal, and high-performance environments.
 
-Leading globally distributed engineering teams (US, India, Philippines) building everything from multi-region Azure hub-spoke architectures to GPU/HPC clusters and GenAI-driven data pipelines. My career spans carrier-grade networking, enterprise cloud, DoD-cleared environments, and AI infrastructure — always at the intersection of complex systems and automation.
+Leading globally distributed engineering teams (US, India, Philippines) building everything from multi-region Azure hub-spoke architectures to GPU/HPC clusters and GenAI-driven data pipelines. My career spans carrier-grade networking, enterprise cloud, DoD-cleared environments, and AI infrastructure always at the intersection of complex systems and automation.
 
 ---
 
-## What I'm Working On
+## Working On
 
-- **GenAI & Data Engineering** — Building end-to-end data pipelines on Microsoft Fabric (OneLake, Data Factory, Data Warehouse, Data Science) with Snowflake integrations and FastAPI-based microservices for real-time data access
+- **Model Fine-tuning to Dianostics** — Building end-to-end data pipelines on Microsoft Fabric (OneLake, Data Factory, Data Warehouse, Data Science) with Snowflake integrations and FastAPI-based microservices for real-time data access
 - **GPU/HPC Infrastructure** — Multi-tenant GPU cluster design with RDMA/RoCEv2 optimization, Kubernetes GPU scheduling, and observability via Prometheus + custom ROCm exporters
-- **Cloud Architecture at Scale** — Multi-region Azure hub-spoke topologies with ExpressRoute, CheckPoint NVAs, BGP peering, and Terraform IaC for Fortune 100 clients
+- **Model Fine-tuning to Dianostics** — Building end-to-end data pipelines on Microsoft Fabric (OneLake, Data Factory, Data Warehouse, Data Science) with Snowflake integrations and FastAPI-based microservices for real-time data access
+- **Azure/GCP/OCI Cloud Architecture at Scale** — Multi-region Azure hub-spoke topologies with ExpressRoute, CheckPoint NVAs, BGP peering, and Terraform IaC for Fortune 100 clients
 - **AI-Driven Automation** — LLM-powered infrastructure validation, configuration generation, and intelligent data quality monitoring using Python and prompt engineering
 
 ---
@@ -28,7 +29,7 @@ AI Infrastructure & Data Platforms  →  GPU clusters, Microsoft Fabric, Snowfla
 
 ## Highlight Projects
 
-### FedEx Multi-Region Azure Architecture
+### Multi-Region Azure Architecture for Enterprises
 Designed enterprise hub-spoke topology across multiple Azure regions with ExpressRoute peering, CheckPoint NVA security, and automated failover. Led 15+ engineers across 4 countries.
 
 ### U.S. Navy Ship-to-Shore Communications
@@ -82,11 +83,6 @@ DoD Cloud SRG, DISA STIGs, NIST 800-53, Zero Trust, IAM/RBAC, OPA Gatekeeper, Tr
 
 
 ---
-
-## Writing
-
-Technical blogs and case studies on Medium:
-[medium.com/@bookfan2200](https://medium.com/@bookfan2200)
 
 ---
 
